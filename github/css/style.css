@@ -1,0 +1,56 @@
+body{
+    background-color: burlywood;
+}
+.h1{
+    border-radius: 15em;
+    background-color: coral;
+    text-align: center;
+}
+
+#infopersonal{
+    width: 80%;
+    float: left;
+    font-family: Verdana;
+    font-size: 150%;
+    text-align: justify;
+}
+
+#infoadicional{
+    width: 80%;
+    float: left;
+    font-family: Verdana;
+    font-size: 150%;
+    text-align: justify;
+}
+
+#i-personal{
+    background-color: coral;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#metas{
+    background-color: coral;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+#imagen1{
+    width: 25%;
+    float: none;
+}
+
+#imagen2{
+    width: 25%;
+    float: none;
+}
+
+#separacion{
+    clear: both;
+}
+
+#footer{
+    text-align: center;
+    width: 100%;
+    background-color: brown;
+}
